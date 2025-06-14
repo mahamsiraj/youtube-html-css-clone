@@ -6,7 +6,7 @@ A responsive front-end clone of YouTube's homepage built using **HTML** and **CS
 
 ## 🚀 Live Demo
 
-🔗 [View Live Project](https://mahamsiraj.github.io/youtube-html-css-clone/youtube.html)
+🔗 [View Live Project](https://mahamsiraj.github.io/youtube-html-css-clone/)
 
 ---
 
